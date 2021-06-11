@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@600&family=Amita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amita&display=swap');
+
+
+body{
+    background-image:url('');
+  background-size:cover;
+  background-repeat:no-repeat;
+   box-shadow:0px 5px 20px ;
+}
+
+/*.card span{
+  width:350px;
+  overflow:hidden;
+  background:fff;
+  border:10px solid grey;
+  border-radius:10px;
+  box-shadow:0 0 20px;
+  display:flex wrap;
+  flex-direction:column;
+}*/
+
+#img{
+  display:block;
+  margin:auto;
+  padding:0px;
+}
+
+div#fc{
+margin:auto;
+width:550px;
+/*border:10px solid lightblue;
+border-bottom-left-radius:25px;
+  border-top-right-radius:25px;*/
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  font-family:"amita"; 
+  perspective:50px;
+  text-shadow:1px 3px #c3c3c3;
+  font-size:50px;
+   justify-content:center;
+  box-shadow:0px 0.9px ;
+}
+
+.title{
+	padding-top:20px;
+  font-family:'Amiko';
+  font-size: 30px;
+  text-align: center;
+  margin: 0 10px;
+}
+
+#lin{
+  font-variant:small-caps;
+  text-align:center;
+  color:red;
+  padding:10px;
+  justify-content:center;
+}
+
+.content{
+  font-family: 'Amiko';
+  font-size: 30px;
+  letter-spacing:1.1px;
+  margin:0 auto;
+  text-align: center;
+  padding:0 50px 10px 50px;
+  text-shadow:0 0.2 0.3px;
+}
+
+a{
+	padding:5px;
+	margin:2px;
+	text-align:center;
+}
+
+
+
+
